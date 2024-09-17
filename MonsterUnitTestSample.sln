@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterUnitTestSample.Application", "MonsterUnitTestSample.Application\MonsterUnitTestSample.Application.csproj", "{811D19B1-9F5C-4A62-A431-9F8C27AFCCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterUnitTestSample.Tests", "MonsterUnitTestSample.Tests\MonsterUnitTestSample.Tests.csproj", "{4EB4CCF0-CFE4-4529-8D4C-DD2D6E590E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811D19B1-9F5C-4A62-A431-9F8C27AFCCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811D19B1-9F5C-4A62-A431-9F8C27AFCCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811D19B1-9F5C-4A62-A431-9F8C27AFCCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811D19B1-9F5C-4A62-A431-9F8C27AFCCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB4CCF0-CFE4-4529-8D4C-DD2D6E590E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB4CCF0-CFE4-4529-8D4C-DD2D6E590E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB4CCF0-CFE4-4529-8D4C-DD2D6E590E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB4CCF0-CFE4-4529-8D4C-DD2D6E590E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6022EC48-C13C-4148-8CD3-B0C49DA47E37}
+	EndGlobalSection
+EndGlobal
